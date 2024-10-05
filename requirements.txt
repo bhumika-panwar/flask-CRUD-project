@@ -1,0 +1,6 @@
+flask
+flask-wtf
+wtf
+flask-bootstrap
+flask-sqlalchmey
+fpdf
